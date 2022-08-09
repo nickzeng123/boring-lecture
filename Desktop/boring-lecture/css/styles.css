@@ -1,0 +1,13 @@
+h2.intro {
+  color: rgb(255, 38, 0);
+  font: 600;
+}
+
+p.intro {
+  font: 400;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+img.intro {
+  max-width: 50%;
+}
